@@ -11,8 +11,8 @@
   },
   "include": [
     "**/*.ts"
-  ],
+, "week-8/stateful-app.js"  ],
   "exclude": [
-    "node_modules"
+    "week-8/node_modules"
   ]
 }
